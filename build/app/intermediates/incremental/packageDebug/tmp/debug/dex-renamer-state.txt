@@ -1,0 +1,4 @@
+#Sun Aug 06 18:23:12 IST 2023
+base.0=/Users/user/Desktop/task/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
